@@ -22,6 +22,7 @@ body {
     flex-direction: column;
     justify-content: center;
     align-items: center;
+    padding: 2dvh 0 2dvh 0;
 }
 
 .main {
